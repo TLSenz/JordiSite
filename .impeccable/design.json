@@ -1,0 +1,33 @@
+{
+  "name": "Jordi Räumungen",
+  "world": "livery",
+  "colors": {
+    "red": "#BE3A2E",
+    "redDeep": "#93291F",
+    "redDark": "#751F16",
+    "paper": "#FAF8F5",
+    "ink": "#1C1713",
+    "muted": "#4F4640",
+    "line": "#E6DED7",
+    "formError": "#FFD9D2"
+  },
+  "fonts": {
+    "display": { "family": "Barlow Condensed", "weights": [600, 700, 800], "file": "assets/fonts/barlow-condensed-{weight}.woff2" },
+    "body": { "family": "Barlow", "weights": [400, 500, 600, 700], "file": "assets/fonts/barlow-{weight}.woff2" }
+  },
+  "type": {
+    "h1Page": "clamp(2.9rem,6vw,5rem)",
+    "h1Hero": "clamp(2.7rem,4.5vw,4rem)",
+    "h2": "clamp(2.3rem,4.5vw,3.6rem)",
+    "h3List": "clamp(1.7rem,3vw,2.5rem)",
+    "body": "1.0625rem/1.65"
+  },
+  "layout": {
+    "wrap": "min(1200px, 100% - clamp(2.5rem,8vw,6rem))",
+    "sectionBlock": "clamp(3.5rem,8vw,6.5rem)",
+    "breakpoints": [1020, 880, 640]
+  },
+  "components": ["topbar", "hero-wipe", "livery-band", "service-list", "steps", "cta-band", "footer", "formular", "team-foto", "tarif-list"],
+  "motion": "one entrance moment + gentle reveals; gated behind .js; prefers-reduced-motion honored",
+  "pages": ["index.html", "tarife.html", "wer-sind-wir.html", "kontakt.html", "impressum.html"]
+}
