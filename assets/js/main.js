@@ -46,7 +46,7 @@ if (form) {
       'Gesendet über die Website'
     ].join('\n')
     window.location.href = 'mailto:info@jordirauemungen.ch?subject=' + encodeURIComponent('Anfrage über die Website') + '&body=' + encodeURIComponent(body)
-    status.textContent = 'Ihr E-Mail-Programm sollte sich geöffnet haben. Klappt das nicht, erreichen Sie uns direkt unter 079 376 54 41.'
+    status.textContent = 'Ihr E-Mail-Programm sollte sich geöffnet haben. Klappt das nicht, erreichen Sie uns direkt unter 076 745 46 25.'
     status.classList.add('sichtbar')
   })
 }

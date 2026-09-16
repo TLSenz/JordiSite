@@ -36,7 +36,7 @@ A visitor arrives with minimal prior context, scans the offer and proof, and the
 ## Brand Commitments
 
 - Name: **Jordi Räumungen**.
-- Kontakt (von der bestehenden Seite): Tel. **079 376 54 41**, E-Mail **info@jordirauemungen.ch**.
+- Kontakt (von der bestehenden Seite): Tel. **076 745 46 25**, E-Mail **info@jordirauemungen.ch**, Adresse **Birkenweg 30, 3114 Wichtrach**.
 - Farbwelt: sattes Ziegel-/Korallenrot als Markfarbe (strukturierte rote Flächen), Weiss, schwarzer Text; rotes Akzentrot für Hervorhebungen.
 - Bildwelt: weisser Transporter in Bewegung (Motion-Blur, Stadthintergrund) — Kernbild der Marke; Schweizer Kreuz als Vertrauenssignal.
 - Design-Referenz: Screenshots der bestehenden Seite im Projektordner (Hero mit Schlagzeile links, Van rechts, rotes Kontaktformular-Panel, Sektion «Unsere Tarife», roter Footer).
@@ -47,7 +47,7 @@ A visitor arrives with minimal prior context, scans the offer and proof, and the
 - Team (echte Texte vom Besitzer geliefert, für «Wer sind wir?»): **Tobias Jordi** (Inhaber & Einsatzleiter, «Töbu»), **Daniel Staub** (Mitgründer & Einsatzleiter, «Dänu»), **Manuel Gafner** (Strategischer Berater) — jeweils mit Aufgabenbeschreibung und persönlichem Motto im Dialekt.
 - Teamfotos als Dateien geliefert und eingebaut (assets/img/team-*.jpg). Das Foto von Manuel Gafner ist niedrig aufgelöst (244×221) und sollte später durch eine grössere Version ersetzt werden.
 - Keine Testimonials, keine Kundennamen, keine Fallstudien. **Tarifpreise vom Besitzer geliefert und eingebaut** (Richtpreise 1,5- bis 5,5-Zimmer, Einfamilienhaus, Entsorgung nach Aufwand, Fixpreis-Offerte für grössere Aufträge).
-- Impressum-Seite nach Schweizer Recht erstellt; Adresse, Rechtsform, Registernummer und UID sind als Platzhalter markiert und müssen vom Besitzer befüllt werden.
+- Impressum-Seite nach Schweizer Recht erstellt; Adresse (Birkenweg 30, 3114 Wichtrach) und Tätigkeitsgebiet (Grossregion Bern, weitere Transporte nach Absprache) sind eingebaut. Rechtsform, Registernummer und UID sind als Platzhalter markiert und müssen vom Besitzer befüllt werden.
 - Das Van-Foto ist interim aus dem Screenshot rekonstruiert (Provenienz im JPEG eingebettet); ein Originalbild (und idealerweise das Logo) muss der Besitzer noch als Datei liefern.
 
 ## Product Principles
