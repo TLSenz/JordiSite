@@ -20,7 +20,7 @@ jordi2 is the marketing/landing site for a service/agency business. It exists to
 
 ## Positioning
 
-**Jordi Räumungen** — ein Schweizer Unternehmen für die Räumung von Häusern und Wohnungen. Eigene Positionierungsworte vom Van bzw. der bestehenden Seite: «Räumungen • Umzüge • Weitergehen» und «Wir schaffen Platz. Einfach, zuverlässig und unkompliziert.» Leistungsversprechen laut eigenem Text: Von der kleinen Wohnungsräumung bis zur kompletten Haushaltsauflösung — Räumungen, Transporte, Entsorgung und auf Wunsch Endreinigung.
+**Jordi Räumungen** — ein Schweizer Unternehmen für die Räumung von Häusern und Wohnungen. Eigene Positionierungsworte vom Van bzw. der bestehenden Seite: «Räumungen • Umzüge • Weitergehen» und «Wir schaffen Platz. Einfach, zuverlässig und unkompliziert.» Leistungsversprechen laut eigenem Text: Von der kleinen Wohnungsräumung bis zur kompletten Haushaltsauflösung — Räumungen, Transporte, Entsorgung und auf Wunsch Besenreinigung.
 
 ## Operating Context
 
