@@ -36,7 +36,7 @@ A visitor arrives with minimal prior context, scans the offer and proof, and the
 ## Brand Commitments
 
 - Name: **Jordi Räumungen**.
-- Kontakt (von der bestehenden Seite): Tel. **076 745 46 25**, E-Mail **info@jordirauemungen.ch**, Adresse **Birkenweg 30, 3114 Wichtrach**.
+- Kontakt (von der bestehenden Seite): Tel. **076 745 46 25**, E-Mail **info@jordiraeumungen.ch**, Adresse **Birkenweg 30, 3114 Wichtrach**.
 - Farbwelt: sattes Ziegel-/Korallenrot als Markfarbe (strukturierte rote Flächen), Weiss, schwarzer Text; rotes Akzentrot für Hervorhebungen.
 - Bildwelt: weisser Transporter in Bewegung (Motion-Blur, Stadthintergrund) — Kernbild der Marke; Schweizer Kreuz als Vertrauenssignal.
 - Design-Referenz: Screenshots der bestehenden Seite im Projektordner (Hero mit Schlagzeile links, Van rechts, rotes Kontaktformular-Panel, Sektion «Unsere Tarife», roter Footer).
